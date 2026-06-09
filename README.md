@@ -29,6 +29,7 @@ I’m a final-year **Computer Science (Network & Security)** student at UTM who 
 * **☁️ The Cloud Resume Challenge:** Slapped together a serverless Python backend API, hooked it up to a Cosmos DB visitor counter, automated it via GitHub Actions, and brought the hosting bill down to exactly **$0**. Take that, cloud spend.
 * **⛓️ Blockchain Investment Tracker:** A hybrid blockchain solution using Solidity smart contracts for permanent ledgers, backed by a Laravel 11 REST API. Because why not combine web dev with cryptographic security?
 * **🏦 Enterprise Testing (The AmBank Chronicles):** Did a stint as a Software Tester intern where I hunted bugs using OpenText ALM and survived the high-stakes, heavily regulated world of enterprise digital banking.
+* **📔 Intellecta:** A full-stack, AI-powered educational platform that swallows your dry, boring PDF documents and spits out highly structured, interactive study materials, it essentially acts as your personal, highly-caffeinated teaching assistant.
 
 ---
 
